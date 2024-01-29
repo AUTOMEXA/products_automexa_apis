@@ -1,0 +1,39 @@
+name: products_automexa_apis_android
+description: A Library Full Package Template
+version: 0.0.0
+homepage: https://github.com/automexa/products_automexa_apis
+repository: https://github.com/automexa/products_automexa_apis
+issue_tracker: https://github.com/automexa/products_automexa_apis/issues 
+documentation: https://youtube.com/@automexa
+funding:
+  - https://github.com/sponsors/automexa
+
+
+platforms:
+ android:
+ ios:
+ linux:
+ macos:
+ web:
+ windows:
+
+# topics:
+#   - products_automexa_apis
+#   - products_automexa_apis_flutter
+#   - products_automexa_apis_dart
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+ 
+flutter:
+ 
